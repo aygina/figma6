@@ -47,6 +47,11 @@ nav {
 .icon {
     grid-row: 1 / 2;
     grid-column: 3 / 4;
+    width: 28px;
+    height: 28px;
+    display: grid;
+    align-self: center;
+    justify-self: end;
 }
 
 .main {
