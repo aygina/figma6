@@ -145,31 +145,24 @@
 
 }
 
-.name1 {
-    grid-column: 1 / 2;
+.name1, .name2, .name3 {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: bold;
     text-align: center;
     font-size: 0.7em;
+}
+
+.name1 {
+    grid-column: 1 / 2;
 }
 
 .name2 {
     grid-column: 2 / 3;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: bold;
-    text-align: center;
-    font-size: 0.7em;
 }
 
 .name3 {
     grid-column: 3 / 4;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: bold;
-    text-align: center;
-    font-size: 0.7em;
 }
 
 .innerf1 {
